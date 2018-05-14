@@ -1,0 +1,43 @@
+
+body {
+	color: #ccc;
+	font-family: Arial;
+	background-color: #333;
+}
+
+h2 {
+	font-family: Tahoma;
+	color: #37c;
+}
+
+h1,h3 {
+	color: #579;
+}
+
+img {
+	height: 200px;
+}
+
+#happy{
+	background-color: green;
+	text-align: justify;
+	vertical-align: top;
+	padding-bottom: 183px;
+}
+
+#sad{
+	background-color: red;
+	text-align: justify;
+	vertical-align: bottom;
+	padding-top: 185px;
+}
+
+a{
+	text-decoration: none;
+	color: #953;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: blue;
+}
